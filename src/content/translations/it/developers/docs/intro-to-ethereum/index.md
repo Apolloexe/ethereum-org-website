@@ -8,9 +8,9 @@ lang: it
 
 Una blockchain si può descrivere come un database pubblico che viene aggiornato e condiviso fra molti computer in una rete.
 
-"Blocco" si riferisce al fatto che i dati e lo stato vengono memorizzati in batch sequenziali o "blocchi". Se invii ETH a un altro utente, i dati della transazione devono essere aggiunti a un blocco affinché l'operazione riesca.
+"Block" si riferisce al fatto che i dati e lo stato vengono memorizzati in batch sequenziali o "blocchi". Se invii ETH a un altro utente, i dati della transazione devono essere aggiunti a un blocco affinché l'operazione riesca.
 
-"Catena" si riferisce al fatto che ogni blocco fa riferimento crittograficamente al suo padre. In altre parole, i blocchi si incatenano tra loro. I dati in un blocco non possono cambiare senza modificare tutti i blocchi successivi, il che richiederebbe il consenso dell'intera rete.
+"Chain" si riferisce al fatto che ogni blocco fa riferimento crittograficamente al suo padre. In altre parole, i blocchi si incatenano tra loro. I dati in un blocco non possono cambiare senza modificare tutti i blocchi successivi, il che richiederebbe il consenso dell'intera rete.
 
 Ogni computer nella rete deve acconsentire a ogni nuovo blocco e alla catena nel complesso. Questi computer sono noti come "nodi". I nodi assicurano che tutti coloro che interagiscono con la blockchain dispongono degli stessi dati. Per compiere questo accordo distribuito, le blockchain necessitano di un meccanismo di consenso.
 
